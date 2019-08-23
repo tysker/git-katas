@@ -2,7 +2,7 @@
 maintainer: randomsort
 ---
 # Git Katas
-
+----------
 ## Quick Start
 
 ### In the Cloud
